@@ -1,10 +1,5 @@
-# RhythmJump
-A music based platform game
-
-## Docs
-
-- Chinese GDD: [Google Docs](https://docs.google.com/document/d/1o8JgMRD53AjWpdXvaA8AGeciMkFDwY28pzybJHmWqKY/edit)
-- English GDD: [Google Docs](https://docs.google.com/document/d/1kXH58Myj2T4DLfro5Uc1xLvNs8SQxa3L3cDC9CGhSiI/edit)
+# PlanningAhead
+Plan B
 
 ## Development
 
@@ -21,7 +16,7 @@ References:
 2. Clone the repo:
 
    ```
-   git clone https://github.com/zhudhjen/RhythmJump.git
+   git clone https://github.com/zhudhjen/planning-ahead.git
    ```
 
 3. Track binary file types with Git LFS (extend it if more binary types are introduced, e.g. mp3/jpg/png):
