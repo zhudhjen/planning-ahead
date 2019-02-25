@@ -80,3 +80,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 Content/MobileStarterContent
+
+Plugins/*
