@@ -1,5 +1,6 @@
-# PlanningAhead
-Plan B
+# Lookahead
+
+Lookahead is a 2D platform game.
 
 ## Development
 
